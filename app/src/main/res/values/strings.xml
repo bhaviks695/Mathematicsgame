@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mathgame</string>
+    <string name="rule">If you answer correctly, your score increases and also the difficulty of the game gets harder. If you dont answer in 30 seconds the game will be over.</string>
+</resources>
